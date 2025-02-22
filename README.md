@@ -1,7 +1,7 @@
 # SEE_PY
 | Task | Status |
 
-|----------|----------|
+| ---------- | ---------- |
 
 | Convert the R codes into Python Codes (use jupyter notebook). | Incomplete |
 
